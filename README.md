@@ -1,18 +1,17 @@
-# TwitchFollowers(Twitch-Farmer)
-Twitch Farmer is a bot that helps you to get more followers.
+# TwitchPremium(Twitch-Çiftçi)
+Twitch Premium, daha fazla takipçi edinmenize yardımcı olan bir bottur.
 ----------------------
 
-WRITTEN BY: baby#1337
+Creator BY : wathonsalvo#9057
 
-CONTRIBUTE: Contributions are always welcome!
+KATKIDA BULUN : Katkılara ve Yardımlara her zaman açığız!
 
- If you can, please take a minute to star this repo and follow me, It will be much appreciated!!!
+Mümkünse, lütfen bu prjojeye yıldız vermek ve beni takip etmek için bir dakikanızı ayırın, Çok takdir edilecektir !!!
 
-
-Installation
+Kurulum
 -------------------
 ```
-git clone https://github.com/whoisbaby/TwitchFollowers
+git clone https://github.com/TheWathons/twitch-premium
 
 cd TwitchFollowers
 
